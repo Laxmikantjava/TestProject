@@ -16,7 +16,7 @@ public class LCMOfTwoNumber {
 		
 		if (a>b){
 	max =a;
-		}
+		} 
 		else {
 			max =b;
 		}
