@@ -10,7 +10,7 @@ public class PrintRandomNumber {
 	
 		Random rand = new Random();
 	 	
-	for(int loop=1;loop<=4;loop++) {
+	for(int loop=1;loop<=1;loop++) {
 		
 		System.out.println(rand.nextInt(100));
 	}
