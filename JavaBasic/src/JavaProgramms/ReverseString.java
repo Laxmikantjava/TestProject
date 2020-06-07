@@ -4,8 +4,8 @@ public class ReverseString {
 
 	public static void main(String[] args) {
 		
-		//reverse a string 
-		//difference in string and string buffer    string buffer is muttable
+		//reverse a string    
+		//difference in string and string buffer    string buffer is mutable
 		//do we have reverse function in string   No because string is immutable object
 		
 		String name = "deepak";
