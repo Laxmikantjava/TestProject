@@ -1,7 +1,8 @@
+
 package JavaProgramms;
 
 public class PalindromNumber {
-
+//A palindromic number is a number that remains the same when its digits are reversed. Like 16461, for example,
 	public static void main(String[] args) {
 		int no = 121;
 		int temp=no;
